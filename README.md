@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <p align="center">
-    <img src="https://github.com/user-attachments/assets/13104c33-6b9b-411d-afc9-f90b92eea905" alt="Image 1">
+    <img src="" alt="Image 1">
      <p align="center">
     <img src="https://github.com/user-attachments/assets/92a3e3d9-7d27-4edc-9860-c4c020cf10b5" alt="Flags Image">
 </div>
