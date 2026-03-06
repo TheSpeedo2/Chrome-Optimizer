@@ -1,22 +1,20 @@
-<p align="center">
-  <b>Image Gallery 🖼️</b>
-</p>
+
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <p align="center">
-    <img src="" alt="Image 1">
+    <img width="1502" height="886" alt="aaa2" src="https://github.com/user-attachments/assets/d123fc0c-72a8-4710-9f8a-bc79a0afd907" />
      <p align="center">
     <img src="https://github.com/user-attachments/assets/92a3e3d9-7d27-4edc-9860-c4c020cf10b5" alt="Flags Image">
 </div>
 <p align="center">
-  <a href="https://github.com/TheSPEEDO/Google-Optimizer/releases/latest" style="color:#1E90FF; font-weight: light; text-decoration: none;">Download The Latest Version</a>
+  <a href="https://github.com/TheSpeedo2/Chrome-Optimizer/releases/latest" style="color:#1E90FF; font-weight: light; text-decoration: none;">Download The Latest Version</a>
 <p align="center">
- <a href="https://github.com/TheSPEEDO/Google-Optimizer/blob/main/screenshots.md" style="color:#1E90FF; font-weight: bold; text-decoration: none;">    Screenshots</a>
+ <a href="https://github.com/TheSpeedo2/Chrome-Optimizer/blob/main/screenshots.md" style="color:#1E90FF; font-weight: bold; text-decoration: none;">    Screenshots</a>
 <p align="center">
   <b> Featuresℹ️</b>
 </p>
 <p align="center">
-<h1 style="font-family: Consolas, sans-serif;">Note!</h1>
+<h1 style="font-family: Consolas, sans-serif;">Features</h1>
 <ul style="font-family: Arial, sans-serif;">
   <li>🔹 Google-Optimizer will make your google consume less memory,cpu usage.</li>
   <li>🔹 Faster <strong>Search Results</strong>.</li>
@@ -72,6 +70,6 @@
   <li> <strong>Fork it, Use it, Share it, its all open-source. i support free internet</li>
 
 <p align="center">
-  <a href="https://github.com/TheSPEEDO/ChromEKraken/releases/latest" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
+  <a href="https://github.com/TheSpeedo2/Chrome-Optimizer/releases/latest" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Download the latest version</a>
 </p>
 
