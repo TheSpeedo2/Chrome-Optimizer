@@ -8,12 +8,14 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/TheSpeedo2/Chrome-Optimizer/releases/latest" style="color:#1E90FF; font-weight: light; text-decoration: none;">Download the Latest Version</a>
+  <a href="https://github.com/TheSpeedo2/Chrome-Optimizer/releases/latest" style="color:#1E90FF; font-weight: light; text-decoration: none;">Download The Latest Version</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/TheSpeedo2/Chrome-Optimizer/blob/main/screenshots.md" style="color:#1E90FF; font-weight: bold; text-decoration: none;">Screenshots</a>
 </p>
+
+---
 
 ## Features
 
