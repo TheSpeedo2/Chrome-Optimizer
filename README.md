@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
     <p align="center">
-    <img width="1502" height="886" alt="aaa2" src="https://github.com/user-attachments/assets/d123fc0c-72a8-4710-9f8a-bc79a0afd907" />
+    <img width="1502" height="886" alt="aaa2" src="https://github.com/user-attachments/assets/dbef51f9-2cca-4191-b6c5-3011c67e991c" />
      <p align="center">
     <img src="https://github.com/user-attachments/assets/92a3e3d9-7d27-4edc-9860-c4c020cf10b5" alt="Flags Image">
 </div>
